@@ -1,0 +1,5 @@
+PyYAML==6.0.1
+ruamel.yaml==0.18.6
+ruamel.yaml.clib==0.2.8
+tile-generator==15.0.2
+urllib3==2.2.0
